@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-03-07 18:20:17,http://pull-hls-f11.douyincdn.com/media/stream-118899562654991020.m3u8?arch_hrchy=w1&exp_hrchy=w1&expire=1773218365&major_anchor_level=common&sign=821612d0a7b01fb226f8f39d97d19fc2&t_id=037-20260304163924497A73460AD8D5D628AF-n87Lsu$订阅源
+2026-03-09 18:41:59,http://pull-hls-f11.douyincdn.com/media/stream-118899562654991020.m3u8?arch_hrchy=w1&exp_hrchy=w1&expire=1773218365&major_anchor_level=common&sign=821612d0a7b01fb226f8f39d97d19fc2&t_id=037-20260304163924497A73460AD8D5D628AF-n87Lsu$订阅源
 
 📺央视频道,#genre#
 CCTV-2,http://pull-hls-f11.douyincdn.com/media/stream-118899562654991020.m3u8?arch_hrchy=w1&exp_hrchy=w1&expire=1773218365&major_anchor_level=common&sign=821612d0a7b01fb226f8f39d97d19fc2&t_id=037-20260304163924497A73460AD8D5D628AF-n87Lsu$订阅源
@@ -72,11 +72,11 @@ CETV-4,https://iptv.catvod.com/live.php?id=CETV4$订阅源
 三沙卫视,https://iptv.catvod.com/live.php?id=%E4%B8%89%E6%B2%99%E5%8D%AB%E8%A7%86$订阅源
 天津卫视,https://iptv.catvod.com/live.php?id=%E5%A4%A9%E6%B4%A5%E5%8D%AB%E8%A7%86%E5%8F%B0$订阅源
 西藏卫视,https://iptv.catvod.com/live.php?id=%E8%A5%BF%E8%97%8F%E5%8D%AB%E8%A7%86$订阅源
-西藏卫视,http://php.jdshipin.com:8880/xztv.php?id=ws$订阅源
 西藏卫视,http://cc02.tv12.xyz/9.m3u8$订阅源
+西藏卫视,http://php.jdshipin.com:8880/xztv.php?id=ws$订阅源
 新疆卫视,https://iptv.catvod.com/live.php?id=%E6%96%B0%E7%96%86%E5%8D%AB%E8%A7%86%E5%8F%B0$订阅源
-新疆卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221225635$订阅源
 新疆卫视,http://cc02.tv12.xyz/10.m3u8$订阅源
+新疆卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221225635$订阅源
 云南卫视,https://iptv.catvod.com/live.php?id=%E4%BA%91%E5%8D%97%E5%8D%AB%E8%A7%86%E5%8F%B0$订阅源
 云南卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226444$订阅源
 
@@ -88,6 +88,10 @@ CETV-4,https://iptv.catvod.com/live.php?id=CETV4$订阅源
 南通新闻综合,https://iptv.catvod.com/live.php?id=%E5%8D%97%E9%80%9A%E6%96%B0%E9%97%BB%E7%BB%BC%E5%90%88$订阅源
 新沂生活,http://live.xysrmt.cn/shpd/sd/live.m3u8?zjiangsd$订阅源
 江苏体育,https://iptv.catvod.com/live.php?id=%E6%B1%9F%E8%8B%8F%E4%BD%93%E8%82%B2$订阅源
+江苏城市,https://iptv.catvod.com/live.php?id=%E6%B1%9F%E8%8B%8F%E5%9F%8E%E5%B8%82%E9%A2%91%E9%81%93$订阅源
 江苏教育,https://iptv.catvod.com/live.php?id=%E6%B1%9F%E8%8B%8F%E6%95%99%E8%82%B2$订阅源
+江苏教育,https://mgtv.ottiptv.cc/mg/628008321.m3u8?userid=5559462299&sign=237e2973500e338cee4f2774df77dd0b0b27b654316347b8ec0f1b45028b4f48070833e6c4d8339bf9a5bcde11b9c505df6ab45dd1af469810fd1a1804ef2968d3e83cdd354f28433c83d09a04afd1c6b0&auth_token=1b99577efa5a3442ca4c7820d6e0b4e8$订阅源
 淮安新闻综合,https://iptv.catvod.com/live.php?id=%E6%B7%AE%E5%AE%89%E6%96%B0%E9%97%BB%E7%BB%BC%E5%90%88$订阅源
 溧水新闻综合,https://iptv.catvod.com/live.php?id=%E6%BA%A7%E6%B0%B4%E6%96%B0%E9%97%BB%E7%BB%BC%E5%90%88$订阅源
+连云港新闻综合,https://mgtv.ottiptv.cc/mg/639731715.m3u8?userid=5559462299&sign=e9f09835b85408183c78bc39fa6e64a66ca93307c22cbf2484b380cd8d2093f0f08cf451c4268c7de12071cf3d8701752bf01f4e73bd4911eca25e8fe7935b6807996637af0b1614422a9aa3df8c70fc30&auth_token=1b99577efa5a3442ca4c7820d6e0b4e8$订阅源
+镇江新闻综合,https://mgtv.ottiptv.cc/mg/639731783.m3u8?userid=5559462299&sign=a0094139944d6cef5dcf62dd8db54ca271858882770d989a55d61ec4314f63c15dcfc19dc4fb789139b7ffbc7ffca6064609a8cd432c47caa7f62d44e890ac7784d6aba0d2ec72cd66773ed1a6ec795e28&auth_token=1b99577efa5a3442ca4c7820d6e0b4e8$订阅源
