@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-09-03 22:10:03,https://dash2.antik.sk/live/test_cctv_tizen/playlist.m3u8$订阅源
+2026-09-05 21:16:51,https://dash2.antik.sk/live/test_cctv_tizen/playlist.m3u8$订阅源
 
 📺央视频道,#genre#
 CCTV-4,https://dash2.antik.sk/live/test_cctv_tizen/playlist.m3u8$订阅源
@@ -15,4 +15,12 @@ CCTV-14,https://event.pull.hebtv.com/jishi/cp2.m3u8#rtsp://103.251.96.71/PLTV/88
 ☘️江苏频道,#genre#
 南京教科,http://nklive.nbs.cn/hls/75b3c462-b831-4de7-a34b-5d3221db2069/index.m3u8$订阅源
 南京新闻综合,http://nklive.nbs.cn/hls/d511bc9d-a694-4453-b3a2-4fc842cc97a1/index.m3u8$订阅源
+宜兴新闻,https://live.chinacert.cftest5.cn/cnmg/live/955227996$订阅源
 新沂生活,http://live.xysrmt.cn/shpd/sd/live.m3u8?zjiangsd$订阅源
+江苏体育,https://live.chinacert.cftest5.cn/cnmg/live/626064707$订阅源
+江苏公共,https://live.chinacert.cftest5.cn/cnmg/live/626064693$订阅源
+江苏城市,https://live.chinacert.cftest5.cn/cnmg/live/626064714$订阅源
+江苏影视,https://live.chinacert.cftest5.cn/cnmg/live/626064697$订阅源
+江苏教育,https://live.chinacert.cftest5.cn/cnmg/live/628008321$订阅源
+连云港新闻综合,https://live.chinacert.cftest5.cn/cnmg/live/639731715$订阅源
+镇江新闻综合,https://live.chinacert.cftest5.cn/cnmg/live/639731783$订阅源
